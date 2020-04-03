@@ -12,7 +12,7 @@ def courses_spider():
     # open file to write to and init csv writer
     file = open("lectures.csv", "w", newline='')
     writer = csv.writer(file)
-    writer.writerow(["label", "title", "videoURL", "lecturer", "notes"])
+    writer.writerow(["label", "title", "videoURL", "lecturer", "notes", "subject"])
     # grab html from url
     url = 'http://ai.berkeley.edu/lecture_videos.html'
     source_code = requests.get(url)
@@ -36,6 +36,7 @@ def courses_spider():
                 if video is not None:
                     csvrow.append(video['href'])
             if len(csvrow) == 5:
+                csvrow.append("Artifical Intelligence")
                 writer.writerow(csvrow)
     file.close()
 
