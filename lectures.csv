@@ -1,1 +1,131 @@
-title,lecturer,videoURL,Semester
+label,title,videoURL,lecturer,notes
+Lecture 1,Introduction,https://www.youtube.com/watch?feature=player_embedded&v=J6PBD-wNEDs,Dan Klein,Fall 2012
+Lecture 2,Uninformed Search,https://www.youtube.com/watch?feature=player_embedded&v=afwPe_OqPX0,Dan Klein,Fall 2012
+Lecture 3,Informed Search,https://www.youtube.com/watch?feature=player_embedded&v=OGcG4jSKOVA,Dan Klein,Fall 2012
+Lecture 4,Constraint Satisfaction Problems I,https://www.youtube.com/watch?feature=player_embedded&v=hegL0V4ckco,Dan Klein,Fall 2012
+Lecture 5,Constraint Satisfaction Problems II,https://www.youtube.com/watch?feature=player_embedded&v=LajAWn51HmE,Dan Klein,Fall 2012
+Lecture 6,Adversarial Search,https://www.youtube.com/watch?feature=player_embedded&v=cwbjLIahbv8,Dan Klein,Fall 2012
+Lecture 7,Expectimax and Utilities,https://www.youtube.com/watch?feature=player_embedded&v=GevK0-9n24g,Dan Klein,Fall 2012
+Lecture 8,Markov Decision Processes I,https://www.youtube.com/watch?feature=player_embedded&v=wKx4MuLfe0M,Dan Klein,Fall 2012
+Lecture 9,Markov Decision Processes II,https://www.youtube.com/watch?feature=player_embedded&v=2M7mv4-BPCg,Dan Klein,Fall 2012
+Lecture 10,Reinforcement Learning I,https://www.youtube.com/watch?feature=player_embedded&v=hsz0zq6AXGE,Dan Klein,Fall 2012
+Lecture 11,Reinforcement Learning II,https://www.youtube.com/watch?feature=player_embedded&v=R0vTZp0ve4s,Dan Klein,Fall 2012
+Lecture 12,Probability,https://www.youtube.com/watch?v=cFtXkaLog5A,Pieter Abbeel,Spring 2014
+Lecture 13,Markov Models,https://www.youtube.com/watch?v=Nxkapm7QlNw,Pieter Abbeel,Spring 2014
+Lecture 14,Hidden Markov Models,https://www.youtube.com/watch?v=OdQoRGRPmj8,Dan Klein,Fall 2013
+Lecture 15,Applications of HMMs / Speech,https://www.youtube.com/watch?v=KBg97801U40,Pieter Abbeel,Spring 2014
+Lecture 16,Bayes' Nets: Representation,https://www.youtube.com/watch?v=gMQZq2O8yDA,Pieter Abbeel,Spring 2014
+Lecture 17,Bayes' Nets: Independence,https://www.youtube.com/watch?v=9OajWBYRhRU,Pieter Abbeel,Spring 2014
+Lecture 18,Bayes' Nets: Inference,https://www.youtube.com/watch?v=y9jdsPNsU_Q,Pieter Abbeel,Spring 2014
+Lecture 19,Bayes' Nets: Sampling,https://www.youtube.com/watch?v=ogYaTTRguIw,Pieter Abbeel,Fall 2013
+Lecture 20,Decision Diagrams / Value of Perfect Information,https://www.youtube.com/watch?v=VL_IAzfC2uk,Pieter Abbeel,Spring 2014
+Lecture 21,Machine Learning: Naive Bayes,https://www.youtube.com/watch?v=_pe60buCnxE,Nicholas Hay,Spring 2014
+Lecture 22,Machine Learning: Perceptrons,https://www.youtube.com/watch?v=HEFfs1KCph4,Pieter Abbeel,Spring 2014
+Lecture 23,Machine Learning: Kernels and Clustering,https://www.youtube.com/watch?v=H9DUTH9lCfg,Pieter Abbeel,Spring 2014
+Lecture 24,"Advanced Applications: NLP, Games, and Robotic Cars",https://www.youtube.com/watch?v=sMKptCC-x_o,Pieter Abbeel,Spring 2014
+Lecture 25,Advanced Applications: Computer Vision and Robotics,https://www.youtube.com/watch?v=WZqtZ8RDVs8,Pieter Abbeel,Spring 2014
+SBS-1,DFS and BFS,https://www.youtube.com/watch?v=cXZKV7K5v3E,Pieter Abbeel,Lec: Uninformed Search
+SBS-2,A* Search,https://www.youtube.com/watch?v=g0MJRpquEOk,Pieter Abbeel,Lec: Informed Search
+SBS-3,Alpha-Beta Pruning,https://www.youtube.com/watch?v=jvpWtwVSvjA,Pieter Abbeel,Lec: Adversarial Search
+SBS-4,D-Separation,https://www.youtube.com/watch?v=_R_RYn5KelA,Pieter Abbeel,Lec: Bayes' Nets: Independence
+SBS-5,Elimination of One Variable,https://www.youtube.com/watch?v=-Y-XiO9VeLQ,Pieter Abbeel,Lec: Bayes' Nets: Inference
+SBS-6,Variable Elimination,https://www.youtube.com/watch?v=4-Cr_Lv9Sr4,Pieter Abbeel,Lec: Bayes' Nets: Inference
+SBS-7,Sampling,https://www.youtube.com/watch?v=Q6NzkeUvj2I,Pieter Abbeel,Lec: Bayes' Nets: Sampling
+SBS-8,Maximum Likelihood,https://www.youtube.com/watch?v=b2g88r69vPI,Pieter Abbeel,Lec: Machine Learning: Naive Bayes
+SBS-9,Laplace Smoothing,https://www.youtube.com/watch?v=VkBytl_Qmt8,Pieter Abbeel,Lec: Machine Learning: Naive Bayes
+SBS-10,Perceptrons,https://www.youtube.com/watch?v=mH4QSs5IGao,Pieter Abbeel,Lec: Machine Learning: Perceptrons
+Lecture 1,Introduction,https://www.youtube.com/watch?v=W1S-HSakPTM,Pieter Abbeel,
+Lecture 2,Uninformed Search,https://www.youtube.com/watch?v=bSv4CWMTeR0,Pieter Abbeel,
+Lecture 3,Informed Search,https://www.youtube.com/watch?v=8pTjoFiICg8,Pieter Abbeel,
+Lecture 4,Constraint Satisfaction Problems I,https://www.youtube.com/watch?v=Hv_JlWld9iQ,Pieter Abbeel,"Recording is a bit flaky, see Fall 2013 Lecture 4 for alternative"
+Lecture 5,Constraint Satisfaction Problems II,https://www.youtube.com/watch?v=kYVSOLX_t84,Pieter Abbeel,
+Lecture 6,Adversarial Search,https://www.youtube.com/watch?v=1KTCoQRWKOE,Pieter Abbeel,
+Lecture 7,Expectimax and Utilities,https://www.youtube.com/watch?v=jaFRyzp7yWw,Pieter Abbeel,
+Lecture 8,Markov Decision Processes I,https://www.youtube.com/watch?v=Oxqwwnm_x0s,Pieter Abbeel,
+Lecture 9,Markov Decision Processes II,https://www.youtube.com/watch?v=6pBvbLyn6fE,Pieter Abbeel,
+Lecture 10,Reinforcement Learning I,https://www.youtube.com/watch?v=IXuHxkpO5E8,Pieter Abbeel,
+Lecture 11,Reinforcement Learning II,https://www.youtube.com/watch?v=yNeSFbE1jdY,Pieter Abbeel,
+Lecture 12,Probability,https://www.youtube.com/watch?v=cFtXkaLog5A,Pieter Abbeel,
+Lecture 13,Markov Models,https://www.youtube.com/watch?v=Nxkapm7QlNw,Pieter Abbeel,
+Lecture 14,Hidden Markov Models,https://www.youtube.com/watch?v=XFgdo4czYs4,Pieter Abbeel,"Recording is a bit flaky, see Fall 2013 Lecture 18 for alternative"
+Lecture 15,Applications of HMMs / Speech,https://www.youtube.com/watch?v=KBg97801U40,Pieter Abbeel,
+Lecture 16,Bayes' Nets: Representation,https://www.youtube.com/watch?v=gMQZq2O8yDA,Pieter Abbeel,
+Lecture 17,Bayes' Nets: Independence,https://www.youtube.com/watch?v=9OajWBYRhRU,Pieter Abbeel,
+Lecture 18,Bayes' Nets: Inference,https://www.youtube.com/watch?v=y9jdsPNsU_Q,Pieter Abbeel,
+Lecture 20,Decision Diagrams / Value of Perfect Information,https://www.youtube.com/watch?v=VL_IAzfC2uk,Pieter Abbeel,
+Lecture 21,Machine Learning: Naive Bayes,https://www.youtube.com/watch?v=_pe60buCnxE,Nicholas Hay,
+Lecture 22,Machine Learning: Perceptrons,https://www.youtube.com/watch?v=HEFfs1KCph4,Pieter Abbeel,
+Lecture 23,Machine Learning: Kernels and Clustering,https://www.youtube.com/watch?v=H9DUTH9lCfg,Pieter Abbeel,
+Lecture 24,"Advanced Applications: NLP, Games, and Robotic Cars",https://www.youtube.com/watch?v=sMKptCC-x_o,Pieter Abbeel,
+Lecture 25,Advanced Applications: Computer Vision and Robotics,https://www.youtube.com/watch?v=WZqtZ8RDVs8,Pieter Abbeel,
+Lecture 1,Introduction,https://www.youtube.com/watch?v=tONNlv6osG4,Dan Klein,
+Lecture 2,Uninformed Search,https://www.youtube.com/watch?v=y9YtT49fFlM,Dan Klein,
+Lecture 3,Informed Search,https://www.youtube.com/watch?v=ka5KpaKDGF0,Dan Klein,
+Lecture 4,Constraint Satisfaction Problems I,https://www.youtube.com/watch?v=hJ9WOiueJes,Dan Klein,
+Lecture 5,Constraint Satisfaction Problems II,https://www.youtube.com/watch?v=2TDQ_mesnOQ,Dan Klein,
+Lecture 6,Adversarial Search,https://www.youtube.com/watch?v=-Il2oJoItaI,Dan Klein,
+Lecture 7,Expectimax and Utilities,https://www.youtube.com/watch?v=M98BM_yJPNw,Dan Klein,
+Lecture 8,Markov Decision Processes I,https://www.youtube.com/watch?v=ip4iSMRW5X4,Dan Klein,
+Lecture 9,Markov Decision Processes II,https://www.youtube.com/watch?v=1S-dw6Vt1l4,Dan Klein,
+Lecture 10,Reinforcement Learning I,https://www.youtube.com/watch?v=w33Lplx49_A,Dan Klein,
+Lecture 11,Reinforcement Learning II,https://www.youtube.com/watch?v=jUoZg513cdE,Dan Klein,
+Lecture 12,Probability,https://www.youtube.com/watch?v=8rnIArZS9cI,Pieter Abbeel,
+Lecture 13,Bayes' Nets: Representation,https://www.youtube.com/watch?v=VfyxPtlqZh4,Pieter Abbeel,
+Lecture 14,Bayes' Nets: Independence,https://www.youtube.com/watch?v=iaY3isLZUGs,Dan Klein,
+Lecture 15,Bayes' Nets: Inference,https://www.youtube.com/watch?v=oYKAfYFmsoM,Pieter Abbeel,
+Lecture 16,Bayes' Nets: Sampling,https://www.youtube.com/watch?v=ogYaTTRguIw,Pieter Abbeel,
+Lecture 17,Decision Diagrams / Value of Perfect Information,https://www.youtube.com/watch?v=qQXmaWzmYuA,Pieter Abbeel,
+Lecture 18,Hidden Markov Models,https://www.youtube.com/watch?v=OdQoRGRPmj8,Dan Klein,
+Lecture 19,Applications of HMMs / Speech,https://www.youtube.com/watch?v=e_nQkLZens8,Dan Klein,
+Lecture 20,Machine Learning: Naive Bayes,https://www.youtube.com/watch?v=iA2nEXanP_o,Dan Klein,
+Lecture 21,Machine Learning: Perceptrons,https://www.youtube.com/watch?v=dXuNAkHsos4,Dan Klein,
+Lecture 22,Machine Learning: Kernels and Clustering,https://www.youtube.com/watch?v=eXEi46V12dA,Pieter Abbeel,
+Lecture 23,Machine Learning: Decision Trees and Neural Nets,https://www.youtube.com/watch?v=WC_DhP3vyy8,Pieter Abbeel,
+Lecture 25,Advanced Applications: Computer Vision and Robotics,https://www.youtube.com/watch?v=OVgJPRSET30,Pieter Abbeel,
+Lecture 2,Uninformed Search,https://www.youtube.com/watch?v=ST--VJJJqoc,Pieter Abbeel,
+Lecture 3,Informed Search,https://www.youtube.com/watch?v=_oaqK0G_qKk,Pieter Abbeel,
+Lecture 4,Constraint Satisfaction Problems I,https://www.youtube.com/watch?v=IbWL7CB15vw,Pieter Abbeel,
+Lecture 6,Adversarial Search,https://www.youtube.com/watch?v=Nwl3LuG-fs8,Pieter Abbeel,
+Lecture 7,Expectimax and Utilities,https://www.youtube.com/watch?v=r-RxPnnp__o,Pieter Abbeel,
+Lecture 8,Markov Decision Processes I,https://www.youtube.com/watch?v=i0o-ui1N35U,Pieter Abbeel,
+Lecture 9,Markov Decision Processes II,https://www.youtube.com/watch?v=Csiiv6WGzKM,Pieter Abbeel,
+Lecture 10,Reinforcement Learning I,https://www.youtube.com/watch?v=ifma8G7LegE,Pieter Abbeel,
+Lecture 11,Reinforcement Learning II,https://www.youtube.com/watch?v=Si1_YTw960c,Pieter Abbeel,
+Lecture 12,Probability,https://www.youtube.com/watch?v=yRG6np3yC7c,Pieter Abbeel,
+Lecture 13,Bayes' Nets: Representation,https://www.youtube.com/watch?v=uicA_yXW9LE,Pieter Abbeel,
+Lecture 14,Bayes' Nets: Independence,https://www.youtube.com/watch?v=Mg3nFk3hkDE,Pieter Abbeel,
+Lecture 15,Bayes' Nets: Inference,https://www.youtube.com/watch?v=_haafsCKsmY,Pieter Abbeel,
+Lecture 16,Bayes' Nets: Sampling,https://www.youtube.com/watch?v=IqGbgfkkcsY,Pieter Abbeel,
+Lecture 17,Decision Diagrams / Value of Perfect Information,https://www.youtube.com/watch?v=xia9VhcrMW0,Pieter Abbeel,
+Lecture 18,Hidden Markov Models,https://www.youtube.com/watch?v=9dp4whVQv5s,Pieter Abbeel,
+Lecture 19,Applications of HMMs / Speech,https://www.youtube.com/watch?v=Qh2hFKHOwPU,Pieter Abbeel,
+Lecture 20,Machine Learning: Naive Bayes,https://www.youtube.com/watch?v=DNvwfNEiKvw,Pieter Abbeel,
+Lecture 21,Machine Learning: Perceptrons I,https://www.youtube.com/watch?v=dyDdNtr9Q48,Nicholas Hay,
+Lecture 22,Machine Learning: Perceptrons II,https://www.youtube.com/watch?v=rlAGutu67T0,Pieter Abbeel,
+Lecture 23,Machine Learning: Kernels and Clustering,https://www.youtube.com/watch?v=ZSxvr282gBw,Pieter Abbeel,
+Lecture 24,Advanced Applications: NLP and Robotic Cars,https://www.youtube.com/watch?v=AMcSRTsC15M,Pieter Abbeel,
+Lecture 25,Advanced Applications: Computer Vision and Robotics,https://www.youtube.com/watch?v=MeFpNzqjkQw,Pieter Abbeel,
+Lecture 1,Introduction,https://www.youtube.com/watch?feature=player_embedded&v=J6PBD-wNEDs,Dan Klein,
+Lecture 2,Uninformed Search,https://www.youtube.com/watch?feature=player_embedded&v=afwPe_OqPX0,Dan Klein,
+Lecture 3,Informed Search,https://www.youtube.com/watch?feature=player_embedded&v=OGcG4jSKOVA,Dan Klein,
+Lecture 4,Constraint Satisfaction Problems I,https://www.youtube.com/watch?feature=player_embedded&v=hegL0V4ckco,Dan Klein,
+Lecture 5,Constraint Satisfaction Problems II,https://www.youtube.com/watch?feature=player_embedded&v=LajAWn51HmE,Dan Klein,
+Lecture 6,Adversarial Search,https://www.youtube.com/watch?feature=player_embedded&v=cwbjLIahbv8,Dan Klein,
+Lecture 7,Expectimax and Utilities,https://www.youtube.com/watch?feature=player_embedded&v=GevK0-9n24g,Dan Klein,
+Lecture 8,Markov Decision Processes I,https://www.youtube.com/watch?feature=player_embedded&v=wKx4MuLfe0M,Dan Klein,
+Lecture 9,Markov Decision Processes II,https://www.youtube.com/watch?feature=player_embedded&v=2M7mv4-BPCg,Dan Klein,
+Lecture 10,Reinforcement Learning I,https://www.youtube.com/watch?feature=player_embedded&v=hsz0zq6AXGE,Dan Klein,
+Lecture 11,Reinforcement Learning II,https://www.youtube.com/watch?feature=player_embedded&v=R0vTZp0ve4s,Dan Klein,
+Lecture 12,Probability,https://www.youtube.com/watch?feature=player_embedded&v=UIhbGihnZ68,Pieter Abbeel,
+Lecture 13,Bayes' Nets: Representation,https://www.youtube.com/watch?feature=player_embedded&v=04CITGEvGMw0,Pieter Abbeel,
+Lecture 14,Bayes' Nets: Independence,https://www.youtube.com/watch?feature=player_embedded&v=GMge4cuYwZ8,Pieter Abbeel,
+Lecture 15,Bayes' Nets: Inference,https://www.youtube.com/watch?feature=player_embedded&v=GgyH6Nbjdcw,Pieter Abbeel,
+Lecture 16,Bayes' Nets: Sampling,https://www.youtube.com/watch?feature=player_embedded&v=y1dpQlvJ5Ys,Pieter Abbeel,
+Lecture 17,Decision Diagrams / Value of Perfect Information,https://www.youtube.com/watch?feature=player_embedded&v=gp6-CH40ao8,Pieter Abbeel,
+Lecture 18,Hidden Markov Models,https://www.youtube.com/watch?feature=player_embedded&v=uSpiQFD67vQ,Pieter Abbeel,
+Lecture 19,Applications of HMMs / Speech,https://www.youtube.com/watch?feature=player_embedded&v=jcBY01U9czE,Dan Klein,
+Lecture 20,Machine Learning: Naive Bayes,https://www.youtube.com/watch?feature=player_embedded&v=HmCxjAeGt6U,Dan Klein,
+Lecture 21,Machine Learning: Perceptrons,https://www.youtube.com/watch?feature=player_embedded&v=XP7TPZPGzuk,Dan Klein,
+Lecture 22,Machine Learning: Kernels and Clustering,https://www.youtube.com/watch?feature=player_embedded&v=qJdgcwzMuB0,Dan Klein,
+Lecture 23,Machine Learning: Decision Trees and Neural Nets,https://www.youtube.com/watch?feature=player_embedded&v=4LGh2HlyQZ4,Pieter Abbeel,
+Lecture 24,Advanced Applications: Computer Vision and Robotics,https://www.youtube.com/watch?feature=player_embedded&v=POMk-X93Bag,Pieter Abbeel,
